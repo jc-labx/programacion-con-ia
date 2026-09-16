@@ -4,7 +4,7 @@ Repositorio con las actividades desarrolladas para la asignatura **Programación
 
 ## Autor
 
-Jaime Alberto Chica Betancourt 【1-4e15c1】
+Jaime Alberto Chica Betancourt
 
 ## Actividades
 
