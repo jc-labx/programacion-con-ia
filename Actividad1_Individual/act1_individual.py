@@ -51,7 +51,7 @@ lNotas = [2.5, 3, 5, 4, 1]
 lNotas.append(3.5)
 
 # Ordenar las notas
-lNotasOrdenadas = list(sorted(lNotas))
+lNotasOrdenadas = sorted(lNotas)
 
 # Variable intermedia para sumar las notas
 fNotasSuma = 0
@@ -64,7 +64,7 @@ for Nota in lNotasOrdenadas[1:]:
     fNotasSuma += Nota
     lNotasDefinitivas.append(Nota)
 
-# Calculo el promedio dividiendo la suma de las notas entre el numero de notas menos una
+# Calculo el promedio dividiendo la suma de las notas entre el numero de notas
 fNotasPromedio = fNotasSuma / len(lNotasDefinitivas)
 print(f"El promedio de las notas {lNotasDefinitivas} es {fNotasPromedio}.\n")
 
