@@ -1,0 +1,9 @@
+Asunto: Emergencia en infraestructura
+
+Equipo,
+
+Hay una emergencia relacionada con el almacenamiento compartido. Algunos datos podrían no estar accesibles.
+
+Necesitamos una respuesta inmediata para minimizar el impacto.
+
+Saludos.

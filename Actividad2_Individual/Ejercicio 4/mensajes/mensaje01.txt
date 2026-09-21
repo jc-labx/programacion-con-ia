@@ -1,0 +1,9 @@
+Asunto: Incidente crítico en producción
+
+Buenos días,
+
+Se ha detectado un incidente crítico en el entorno de producción. El servicio principal no está disponible y varios clientes no pueden acceder a la plataforma.
+
+Por favor, atender este asunto de forma urgente.
+
+Gracias.

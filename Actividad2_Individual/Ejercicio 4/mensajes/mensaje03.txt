@@ -1,0 +1,9 @@
+Asunto: Servidor caído
+
+Hola,
+
+El servidor de autenticación se encuentra caído desde hace varios minutos. Los usuarios no pueden iniciar sesión.
+
+Es un problema urgente.
+
+Gracias.
